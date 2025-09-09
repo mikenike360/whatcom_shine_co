@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🧹 Whatcom Shine Co
 
-## Getting Started
+Welcome to **Whatcom Shine Co** — *probably the best residential cleaning website ever made*.  
+Built with cutting-edge web technology to match the spotless shine our team delivers in every home.
 
-First, run the development server:
+---
 
+## ✨ About
+
+This is the official website for **Whatcom Shine Co**, designed to give homeowners in Whatcom County a seamless way to:
+- Explore our premium residential cleaning services
+- Request free quotes with ease
+- Connect with a trusted local team
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚡ [Next.js](https://nextjs.org/) – blazing fast React framework
+- 📝 [TypeScript](https://www.typescriptlang.org/) – maintainable & type-safe
+- 🎨 [Tailwind CSS](https://tailwindcss.com/) – sleek, responsive design
+- 🚀 [Vercel](https://vercel.com/) – zero-config deployment
+
+---
+
+## 🔑 Features
+
+- ✅ **Beautiful, responsive design** – looks perfect on desktop & mobile  
+- ✅ **Service pages** – clear, detailed info about offerings  
+- ✅ **Instant quote requests** – easy contact form for customers  
+- ✅ **SEO-optimized** – rank higher in local search results  
+- ✅ **Lightning-fast performance** – because speed matters  
+
+---
+
+## 💻 Getting Started
+
+### Prerequisites
+- Node.js 18+
+- npm / yarn / pnpm
+
+### Installation
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+git clone https://github.com/mikenike360/whatcom_shine_co.git
+cd whatcom_shine_co
+npm install
